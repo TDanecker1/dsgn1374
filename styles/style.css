@@ -1,7 +1,7 @@
 body {
-	background-color: #7b7b7b; 
-	color: #ffffff;
-	font-family: Ariel, monospace;
+	background-color: #d8d8d8; 
+	color: 000000;
+	font-family: Ariel, 
 	font-style: italic;
 	font-weight: normal;
 	line-height: 1.5
@@ -17,21 +17,22 @@ h1 {
     font-weight: bolder;
     font-size: 32px
     color: #000000;
-    background-color:#af5800;
+    background-color:#6b6b6b;
     text-decoration: blink;
 }
 
 h2 {
-	color: white;
+	color: #000000;
 	font-size: 22px;
-	font-weight: normal; 
+	font-weight: normal;
+	font-style: italic; 
 }
   
 h3 {
 	font-size: 16px;
 	font-weight: normal;
 	color: #000000;
-	background-color: #af5800;
+	background-color: #ffb467;
 	display: inline-block;
 	text-decoration: underline;
 
@@ -44,7 +45,7 @@ h4 {
 	margin-top:  44px;
 	margin-bottom: 6px;
 	color: #000000;
-	background-color: #af5800;
+	background-color: #ffb467;
 	display: inline-block; 
 	text-decoration: underline;
 }
@@ -53,11 +54,12 @@ p {
 	margin-top: 0;
 	margin-bottom: 16px;
 	text-indent: 8px;
+	
 }
 
 em {
 	color: #000000;
-	background-color: #af5800;
+	background-color: #ffb467;
 	display: inline-block;
 	margin-bottom: 32px;
 	text-align: center;
